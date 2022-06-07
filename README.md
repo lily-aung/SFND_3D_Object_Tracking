@@ -356,6 +356,6 @@ So here, I use them one by one for Camera TTC estimate.
 
 <br>
 
-Both FAST+ORB & FAST+BRIEF  gives -inf values,it is caused by the distribution of keypoints didn't satisfy distance thrshold.
+Both FAST+ORB & FAST+BRIEF  gives -inf values,it is caused by the distribution of keypoints didn't satisfy distance threshold.
 BRISK+BRIEF gives the most reasonable results however some TTC times are longer than LiDAR's.
 
